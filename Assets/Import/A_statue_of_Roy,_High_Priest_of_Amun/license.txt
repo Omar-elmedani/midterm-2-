@@ -1,0 +1,11 @@
+Model Information:
+* title:	A statue of Roy, High Priest of Amun
+* source:	https://sketchfab.com/3d-models/a-statue-of-roy-high-priest-of-amun-55fc3feb375842779c07c2a9b4b9f5ea
+* author:	The British Museum (https://sketchfab.com/britishmuseum)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A statue of Roy, High Priest of Amun" (https://sketchfab.com/3d-models/a-statue-of-roy-high-priest-of-amun-55fc3feb375842779c07c2a9b4b9f5ea) by The British Museum (https://sketchfab.com/britishmuseum) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Domus Vettiorum - Painting 04 | POMPEII
+* source:	https://sketchfab.com/3d-models/domus-vettiorum-painting-04-pompeii-afeb31a2bfea4776a1d71b2cce3374cf
+* author:	Arqueomodel3D (https://sketchfab.com/juanbrualla)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Domus Vettiorum - Painting 04 | POMPEII" (https://sketchfab.com/3d-models/domus-vettiorum-painting-04-pompeii-afeb31a2bfea4776a1d71b2cce3374cf) by Arqueomodel3D (https://sketchfab.com/juanbrualla) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

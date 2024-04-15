@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bonehead
+* source:	https://sketchfab.com/3d-models/bonehead-7730a44509864a28a4647c68bd1c3eb9
+* author:	Duznot (https://sketchfab.com/duz_vr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bonehead" (https://sketchfab.com/3d-models/bonehead-7730a44509864a28a4647c68bd1c3eb9) by Duznot (https://sketchfab.com/duz_vr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
